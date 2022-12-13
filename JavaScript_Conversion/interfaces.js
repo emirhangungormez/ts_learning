@@ -1,0 +1,1 @@
+// donusturmeden sonra interface'ler gozukmez.
